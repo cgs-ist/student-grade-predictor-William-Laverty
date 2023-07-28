@@ -3,7 +3,7 @@
 [![GitHub Classroom](https://img.shields.io/badge/GitHub_Classroom-Review_Assignment-41B883?style=for-the-badge&logo=github)](https://classroom.github.com/a/0IOmZycZ)
 [![Visual Studio Code](https://img.shields.io/badge/Open_in_Visual_Studio_Code-Get_Started-007ACC?style=for-the-badge&logo=visual-studio-code)](https://classroom.github.com/online_ide?assignment_repo_id=11500776&assignment_repo_type=AssignmentRepo)
 
-### 🎯 Overview
+## 🎯 Overview
 
 Welcome to the **Machine Learning for Student Performance Predictor**. This is a machine learning algorithm for predicting student performance using the Linear Regression technique. The goal of this program is to forecast the final grades of students based on their academic performance and other related factors.
 
