@@ -12,6 +12,12 @@ In this algorithm, we use the "student-mat.csv" dataset, which is part of the [U
 
 ## Steps Performed by the Code
 
+## Steps Performed by the Code
+
+The Student Grade Predictor is a tool that uses a Linear Regression model to predict the final grade of a student based on their first-period grade (G1), second-period grade (G2), and weekly study time. The model is trained on a dataset containing student information, and the user can input values for G1, G2, and study time through an interactive Graphical User Interface (GUI) to obtain the predicted final grade for a new student.
+
+The predictor uses one-hot encoding for categorical variables and is trained on a dataset (assuming the dataset is in the same directory as the script) that is preprocessed to handle missing values or categorical variables.
+
 1. **Data Loading:** The code reads the "student-mat.csv" file, which contains the student performance data, using the pandas library. The data is loaded into a DataFrame for further processing.
 
 2. **Data Preprocessing:** The dataset may have missing values or categorical variables that need handling. The code preprocesses the data, converting categorical variables into numerical form using one-hot encoding. This transformation is necessary because most machine learning algorithms, including Linear Regression, require numerical inputs.
@@ -22,7 +28,7 @@ In this algorithm, we use the "student-mat.csv" dataset, which is part of the [U
 
 5. **Model Evaluation:** After training, the model's performance is evaluated using the test data. Two common evaluation metrics used are Mean Squared Error (MSE) and R-squared (R2). MSE measures the average squared difference between the predicted and actual grades, while R2 indicates how well the model explains the variance in the target variable.
 
-6. **Example Prediction:** The code algorithmnstrates how to make predictions for a new student using the trained model. You can input the first-period grade, second-period grade, and weekly study time of a new student, and the model will predict their final grade (G3).
+6. **Example Prediction with GUI:** The code features an interactive GUI that allows users to input the first-period grade, second-period grade, and weekly study time of a new student. The model will predict their final grade (G3) based on these inputs, providing a convenient and user-friendly way to utilize the predictor.
 
 ### 📚 References
 
