@@ -1,19 +1,17 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/0IOmZycZ)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11500776&assignment_repo_type=AssignmentRepo)
-# Machine Learning Demo
+## Machine Learning Demo: Student Performance Predictor
 
-## Student Performance Predictor
+[![GitHub Classroom](https://img.shields.io/badge/GitHub_Classroom-Review_Assignment-blue?style=flat-square&logo=github)](https://classroom.github.com/a/0IOmZycZ)
+[![Visual Studio Code](https://img.shields.io/badge/Open_in_Visual_Studio_Code-blue?style=flat-square&logo=visual-studio-code)](https://classroom.github.com/online_ide?assignment_repo_id=11500776&assignment_repo_type=AssignmentRepo)
 
-> Using the Linear Regression technique
+### Overview
 
+Welcome to the Machine Learning Demo for Student Performance Prediction, where we'll be using the Linear Regression technique.
 
 ### Task List
 
-1. [ ] Download/Install software
-2. [ ] Setup GitHub Account
+- [ ] Download and Install Required Software
+- [ ] Set Up Your GitHub Account
 
+### References
 
-
-References
-
-Cortez,Paulo. (2014). Student Performance. UCI Machine Learning Repository. https://doi.org/10.24432/C5TG7T.
+Cortez, Paulo. (2014). Student Performance. UCI Machine Learning Repository. [Link](https://doi.org/10.24432/C5TG7T)
