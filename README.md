@@ -9,8 +9,8 @@ Welcome to the **Machine Learning Demo for Student Performance Predictor**, wher
 
 ### ✅ Task List
 
-- [ ] 📥 Download and Install Required Software
-- [ ] 🛠️ Set Up Your GitHub Account
+- [x] 📥 Download and Install Required Software
+- [x] 🛠️ Set Up Your GitHub Account
 
 ### 📚 References
 
