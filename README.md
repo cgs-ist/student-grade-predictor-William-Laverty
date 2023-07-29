@@ -1,6 +1,5 @@
 ## 🚀 Machine Learning: Student Performance Predictor
 
-[![GitHub Classroom](https://img.shields.io/badge/GitHub_Classroom-Review_Assignment-41B883?style=for-the-badge&logo=github)](https://classroom.github.com/a/0IOmZycZ)
 [![Visual Studio Code](https://img.shields.io/badge/Open_in_Visual_Studio_Code-Get_Started-007ACC?style=for-the-badge&logo=visual-studio-code)](https://classroom.github.com/online_ide?assignment_repo_id=11500776&assignment_repo_type=AssignmentRepo)
 
 ## 🎯 Overview
@@ -26,6 +25,16 @@ The predictor uses one-hot encoding for categorical variables and is trained on 
 5. **Model Evaluation:** After training, the model's performance is evaluated using the test data. Two common evaluation metrics used are Mean Squared Error (MSE) and R-squared (R2). MSE measures the average squared difference between the predicted and actual grades, while R2 indicates how well the model explains the variance in the target variable.
 
 6. **Example Prediction with GUI:** The code features an interactive GUI that allows users to input the first-period grade, second-period grade, and weekly study time of a new student. The model will predict their final grade (G3) based on these inputs, providing a convenient and user-friendly way to utilize the predictor.
+
+## 🔨 Install the required packages
+
+These packages are essential for different aspects of the project, from data handling and machine learning to creating an interactive GUI within the Jupyter notebook environment.
+
+- **Pandas**  # Data manipulation and analysis
+- **Numpy**   # Fundamental package for numerical computations
+- **Scikit-learn**  # Machine learning library
+- **IPywidgets**    # Interactive widgets for Jupyter notebooks
+- **Ttkthemes**     # Theming extension for Tkinter
 
 ### 📚 References
 
