@@ -7,6 +7,12 @@
 
 Welcome to the **Machine Learning for Student Performance Predictor**. This is a machine learning algorithm for predicting student performance using the Linear Regression technique. The goal of this program is to forecast the final grades of students based on their academic performance and other related factors.
 
+**The project consists of two main components: gradePredictor - GUI.ipynb and gradePredictor - TERMINAL.ipynb.**
+
+**gradePredictor** - [`GUI.ipynb`](https://github.com/cgs-ist/student-grade-predictor-William-Laverty/blob/main/gradePredictor%20-%20GUI.ipynb) This Jupyter Notebook contains a user-friendly graphical user interface (GUI) that allows users to input student data and obtain grade predictions through an interactive and intuitive interface. 
+
+**gradePredictor** - [`TERMINAL.ipynb`](https://github.com/cgs-ist/student-grade-predictor-William-Laverty/blob/main/gradePredictor%20-%20TERMINAL.ipynb) This Jupyter Notebook provides a command-line interface (CLI) version of the grade prediction tool, enabling users to input student data through the terminal and receive grade predictions.
+
 In this algorithm, we use the "student-mat.csv" dataset, which is part of the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Student+Performance). The dataset contains information about student performance in mathematics. The features include attributes such as first-period grade, second-period grade, weekly study time, school type, family size, parent's occupation, and more.
 
 ## Steps Performed by the Code
