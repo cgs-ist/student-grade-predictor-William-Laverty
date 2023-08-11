@@ -40,6 +40,25 @@ These packages are essential for different aspects of the project, from data han
 - **IPywidgets**    # Interactive widgets for Jupyter notebooks
 - **Ttkthemes**     # Theming extension for Tkinter
 
+To install the required packages, execute the following commands:
+
+```bash
+pip install pandas numpy scikit-learn ipywidgets ttkthemes numpy matplotlib.pyplot
+```
+
+## 🧑‍💻 Usage
+
+1. Clone the repository and navigate to the project directory.
+
+```bash
+git clone https://github.com/cgs-ist/student-grade-predictor-William-Laverty.git
+cd ML-Student-Performance-Predictor
+```
+
+2. Ensure you have the required packages installed (see the Installation section).
+
+3. Run the Jupyter notebook `"Student_Performance_Predictor.ipynb"` and interact with the GUI to predict student performance.
+
 ### 📚 References
 
 Cortez, Paulo. (2014). Student Performance. UCI Machine Learning Repository. [Link](https://doi.org/10.24432/C5TG7T)
