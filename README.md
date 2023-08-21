@@ -9,7 +9,7 @@ Welcome to the repository containing a collection of machine learning projects. 
 Predict student performance using the Linear Regression technique. The goal is to forecast the final grades of students based on various academic and socio-economic factors.
 
 - **About**: This algorithm uses the "student-mat.csv" dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Student+Performance). The dataset contains information about student performance in mathematics.
-- **Details**: Dive deeper into this project by exploring [`TERMINAL.ipynb`](https://github.com/cgs-ist/student-grade-predictor-William-Laverty/blob/main/Linear%20Regression/gradePredictor%20-%20TERMINAL.ipynb).
+- **Details**: Dive deeper into this project by exploring [`gradePredictor.ipynb`](https://github.com/cgs-ist/student-grade-predictor-William-Laverty/blob/main/Linear%20Regression/gradePredictor.ipynb).
 - **Key Features**: Command-line interface (CLI) version for grade predictions, comprehensive data analysis, and visual insights.
 
 ### 2. Lunar Lander Performance Predictor
