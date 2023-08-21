@@ -10,7 +10,7 @@ Imagine teaching a child to recognize a cat 🐱. Instead of defining a cat by e
 
 ## 2. Categories of Machine Learning 📚
 
-### Supervised Learning 🎓
+### [Supervised Learning](https://github.com/cgs-ist/student-grade-predictor-William-Laverty/blob/main/Linear%20Regression) 🎓
 
 This is the most common technique. Here, the algorithm is trained on a labeled dataset, meaning the data is accompanied by the correct output. The algorithm makes predictions based on this data, and over time, it adjusts itself to be more accurate. Think of it as a student (the machine) learning from a teacher (the data) with the correct answers (labels).
 
@@ -18,7 +18,7 @@ This is the most common technique. Here, the algorithm is trained on a labeled d
 
 Unlike supervised learning, unsupervised algorithms work with datasets without labels. The goal is often to find hidden structures in the data such as grouping customers into different segments. It's akin to handing someone a puzzle and letting them figure out how the pieces fit together without a guiding image.
 
-### Reinforcement Learning 🎮
+### [Reinforcement Learning](https://github.com/cgs-ist/student-grade-predictor-William-Laverty/tree/main/Reinforced%20Learning) 🎮
 
 Here the algorithm learns by interacting with an environment and receiving feedback in the form of rewards or penalties. A classic example is training a computer program to play a game. The algorithm makes a move, the game environment responds, and the algorithm updates itself based on the outcome. Think of it as training a pet: good behavior is rewarded, and bad behavior is discouraged.
 
@@ -31,10 +31,6 @@ A simple yet powerful algorithm used for predicting a continuous value. For exam
 ### Decision Trees and Random Forests 🌲
 
 These are used for both classification (categorizing data into classes) and regression tasks. They work by breaking down data into smaller subsets making decisions at every level.
-
-### Reinforcement Learning 🎮
-
-Reinforcement Learning stands apart as it’s based on the idea of agents who take actions in an environment to maximize cumulative rewards. Popular RL algorithms include Q-learning and Deep Q Networks (DQN). These algorithms are particularly effective for tasks where decision-making is sequential and the end goal is long-term, like game-playing or robotics.
 
 ### Neural Networks and Deep Learning 🌌
 
