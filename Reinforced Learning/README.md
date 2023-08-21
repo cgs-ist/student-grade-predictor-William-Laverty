@@ -6,8 +6,6 @@ The training utilizes the `LunarLander-v2` environment from OpenAI's gym. This e
 
 - [`LunarLander_Predictor.ipynb`](https://github.com/cgs-ist/student-grade-predictor-William-Laverty/blob/main/Reinforced%20Learning/LunarLander-QLearning.ipynb): This Jupyter Notebook provides the core implementation of the DQN algorithm, visualization of the spacecraft's performance, and other supporting utilities.
 
-The [notebook](https://github.com/cgs-ist/student-grade-predictor-William-Laverty/blob/main/Reinforced%20Learning/LunarLander-QLearning.ipynb) offers detailed insights into the training process, data preprocessing, model's architecture, and performance evaluation.
-
 ## 🎯 Project Overview
 
 The Lunar Lander Performance Predictor aims to achieve the following:
